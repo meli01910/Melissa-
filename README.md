@@ -1,4 +1,4 @@
-# 💫 Hi , I'm Melissa:
+# 💫 Hi , I'm Melissa
 🎓 Computer Science Student <br>🪐 I'm passionate about space and the universe 🌌 <br> 🌱 I’m currently learning **data science** and **machine learning**
 
 
