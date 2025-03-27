@@ -1,5 +1,5 @@
 # 💫 Hi , I'm Melissa:
-🔭 Computer Science Student <br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>⚡ ⚡ I'm passionate about space and the universe 🌌
+🔭 Computer Science Student <br>⚡ I'm passionate about space and the universe 🌌
 
 
 # 💻 Tech Stack:
